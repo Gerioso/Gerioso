@@ -13,7 +13,7 @@ years experience in IT
 - :technologist: I love using Software as a solution for every `Problem`.
 - 🧐I am a graduate of the University of ITMO, St. Petersburg. Trained in exchange at the Universitat Pompeu Fabra (UPF), Barcelona
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/Gerioso/Gerioso/source/document/CV.pdf).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/Gerioso/Gerioso/blob/master/source/document/CV.pdf).
 <br>
 
 <!-- 
