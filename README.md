@@ -23,11 +23,11 @@ years experience in IT
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://github.com/Gerioso/Gerioso/blob/master/source/logos/c-1.svg">
+    <img alt="C" src="https://github.com/Gerioso/Gerioso/blob/master/source/logos/c-1.svg" width="10" height="10">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C#" src="https://github.com/Gerioso/Gerioso/blob/master/source/logos/c-4.svg>
+    <img alt="C#" src="https://github.com/Gerioso/Gerioso/blob/master/source/logos/c--4.svg>
   </a> 
   &emsp;
   <a href="https://go.dev/" target="_blank"> 
