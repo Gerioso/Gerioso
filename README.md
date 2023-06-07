@@ -23,23 +23,23 @@ years experience in IT
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://github.com/Gerioso/Gerioso/blob/master/source/logos/c-1.svg" width="10" height="10">
+    <img alt="C" src="https://github.com/Gerioso/Gerioso/blob/master/source/logos/c-1.svg" width="100" height="100">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C#" src="https://github.com/Gerioso/Gerioso/blob/master/source/logos/c--4.svg>
+    <img alt="C#" src="https://github.com/Gerioso/Gerioso/blob/master/source/logos/c--4.svg" width="100" height="100">
   </a> 
   &emsp;
   <a href="https://go.dev/" target="_blank"> 
-     <img alt="Golang" src="https://github.com/Gerioso/Gerioso/blob/master/source/logos/golang-1.svg">
+     <img alt="Golang" src="https://github.com/Gerioso/Gerioso/blob/master/source/logos/golang-1.svg" width="100" height="100">
    </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://github.com/Gerioso/Gerioso/blob/master/source/logos/python-5.svg>
+    <img alt="Python" src="https://github.com/Gerioso/Gerioso/blob/master/source/logos/python-5.svg" width="100" height="100">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Erlang" src="https://github.com/Gerioso/Gerioso/blob/master/source/logos/erlang.svg>
+    <img alt="Erlang" src="https://github.com/Gerioso/Gerioso/blob/master/source/logos/erlang.svg" width="100" height="100">
   </a>
 </p>
 
