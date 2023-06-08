@@ -5,15 +5,17 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 
-- :briefcase: I am a `Middle+ Software engineer` with over 3 years experience in commercial development and 6
-years experience in IT
-- :school: I have a master’s degree in "Business information systems" and a bachelor’s degree in "Software Engineering"
-- :technologist: I love using Software as a solution for every `Problem`.
-- 🧐I am a graduate of the University of ITMO, St. Petersburg. Trained in exchange at the Universitat Pompeu Fabra (UPF), Barcelona
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/Gerioso/Gerioso/blob/master/source/document/CV.pdf).
+Hello! I'm a **Middle+ Software Engineer** with over **3 years of experience** in commercial development and a total of **6 years of experience** in the IT field. Here are some highlights about me:
+<br>
+	 
+- :mortar_board: I hold a master's degree in **Business Information Systems** and a bachelor's degree in **Software Engineering**.
+- :technologist: I embrace software as a solution to every problem and enjoy finding elegant solutions.
+- 🎓 I am a graduate of the University of ITMO, St. Petersburg. I also had the opportunity to study abroad at the Universitat Pompeu Fabra (UPF) in Barcelona.
+- :nerd_face: I have a strong passion for continuous learning and always strive to expand my knowledge.
+- :thinking: Currently, I am actively seeking new **job opportunities** to further enhance my skills and contribute to exciting projects.
+- :page_facing_up: Here's [my resume](https://github.com/Gerioso/Gerioso/blob/master/source/document/CV.pdf) for more details.
 <br>
 
 ## 🛠️ My Skills
@@ -67,7 +69,7 @@ years experience in IT
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/-Amazon%20DynamoDB-CC0000?logo=AWS&logoColor=white&style=for-the-badge%22"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900?logo=amazon-aws&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
   &emsp;
@@ -75,7 +77,7 @@ years experience in IT
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/DynamoDB-%23FF9900?logo=amazon-dynamodb&logoColor=white" /></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
@@ -97,13 +99,13 @@ years experience in IT
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+    <a href="#"><img src="https://img.shields.io/badge/CentOS-%23CC0000?logo=centos&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/macOS-macos-%23000000" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/macOS-%23000000?logo=macos&logoColor=white" /></a>
 </p>
 
 <br> 
